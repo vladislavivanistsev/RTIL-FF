@@ -1,0 +1,8 @@
+TITLE     Chloride anion
+CRYST1   10.000   10.000   10.000  90.00  90.00  90.00 P 1           1
+MODEL        1
+ATOM      1  Cl  Cl      1       0.000   0.000   0.000  0.00  0.00
+END
+TER
+ENDMDL
+
