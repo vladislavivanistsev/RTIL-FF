@@ -1,0 +1,13 @@
+;
+; Note: sigma and epsilon for Lopes and Maesto OPLS are a bit different. Despite the fact that
+; Lopes has taken that from OPLS-AA force filed. 
+; 
+
+[ atomtypes ]
+;   type      mass        charge [will be filled in the molecular tompology] ptype  c6     c12
+  N6a2      14.000       0.0    A    3.25    0.71128 ;       3.25  0.71128
+  S5a2      32.066       0.0    A    3.55    1.04600 ;       3.55  1.046
+  O5a2      15.999       0.0    A    2.95    0.87864 ;       2.96  0.87864
+  C1a2      12.011       0.0    A    3.50    0.27614 ;       3.50  0.27614
+  F2a2      18.998       0.0    A    2.95    0.22175 ;       2.95  0.22275
+
