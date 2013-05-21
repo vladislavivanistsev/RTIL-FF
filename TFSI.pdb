@@ -1,6 +1,4 @@
 TITLE     bis(trifluoromethane)sulfonimide anion
-CRYST1   10.000   10.000   10.000  90.00  90.00  90.00 P 1 1
-MODEL        1
 ATOM      1  NBT TFSI    0      -0.140  -0.790  -0.070  1.00  0.00
 ATOM      2  SBT TFSI    0      -1.730  -0.500  -0.010  1.00  0.00
 ATOM      3  SBT TFSI    0       1.010   0.220  -0.610  1.00  0.00
@@ -16,5 +14,4 @@ ATOM     12  CBT TFSI    0      -1.880   1.040   1.020  1.00  0.00
 ATOM     13  F1  TFSI    0      -3.120   1.120   1.480  1.00  0.00
 ATOM     14  F1  TFSI    0      -1.030   0.980   2.040  1.00  0.00
 ATOM     15  F1  TFSI    0      -1.630   2.100   0.250  1.00  0.00
-TER
-ENDMDL
+END
