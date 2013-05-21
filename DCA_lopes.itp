@@ -3,9 +3,6 @@
 ; from https://github.com/agiliopadua/ilff
 ; J.N. Canongia Lopes, J. Deschamps, A.A.H. Pádua, Modeling Ionic Liquids Using a Systematic All-Atom Force Field, J. Phys. Chem. B. 108 (2004) 2038–2047.
 ;
-; CHARGES from:
-; S.V. Sambasivarao, O. Acevedo, Development of OPLS-AA Force Field Parameters for 68 Unique Ionic Liquids, Journal of Chemical Theory and Computation. 5 (2009) 1038–1050.
-;
 
 [ moleculetype ]
 ; name  nrexcl
