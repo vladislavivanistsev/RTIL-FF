@@ -1,6 +1,4 @@
-TITLE     BMIm cation
-CRYST1   10.000   10.000   10.000  90.00  90.00  90.00 P 1           1
-MODEL        1
+TITLE    1-butyl-3-methylimidazolium cation
 ATOM      1  NA  BMIm    0      -0.320  -0.810  -0.100  1.00  0.00
 ATOM      2  NA  BMIm    0      -1.390  -1.460  -1.870  1.00  0.00
 ATOM      3  CR  BMIm    0      -0.400  -0.700  -1.430  1.00  0.00
@@ -26,5 +24,4 @@ ATOM     22  CT  BMIm    0       2.600   1.990   1.730  1.00  0.00
 ATOM     23  HC  BMIm    0       2.930   1.090   1.700  1.00  0.00
 ATOM     24  HC  BMIm    0       3.090   2.490   2.380  1.00  0.00
 ATOM     25  HC  BMIm    0       2.700   2.400   0.870  1.00  0.00
-TER
-ENDMDL
+END
