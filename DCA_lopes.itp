@@ -13,8 +13,8 @@ DCA   3
     1    N3A   1      DCA     N3A   1      -0.7600      14.000
     2    CZA   1      DCA     CZA   1       0.6400      12.011
     3    CZA   1      DCA     CZA   1       0.6400      12.011
-    4    NZA   1      DCA     N2A   1      -0.7600      14.000
-    5    NZA   1      DCA     N2A   1      -0.7600      14.000
+    4    NZA   1      DCA     NZA   1      -0.7600      14.000
+    5    NZA   1      DCA     NZA   1      -0.7600      14.000
 
 [ bonds ]
 ;  ai  aj funct         c0         c1
