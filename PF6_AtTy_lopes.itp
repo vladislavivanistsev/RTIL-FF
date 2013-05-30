@@ -1,0 +1,10 @@
+;
+; Note: the OPLS-AA atom types. The charges see in the topology file
+; from https://github.com/agiliopadua/ilff
+; J.N. Canongia Lopes, J. Deschamps, A.A.H. Pádua, Modeling Ionic Liquids Using a Systematic All-Atom Force Field, J. Phys. Chem. B. 108 (2004) 2038–2047.
+;
+
+[ atomtypes ]
+;   type   mass          charge  ptype  sigma     epsilon
+    P      30.974        1.3400    A  3.74e-01   0.8368
+    F      18.998       -0.3900    A  3.12e-01   0.2520
