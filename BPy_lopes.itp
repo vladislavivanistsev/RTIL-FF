@@ -9,7 +9,7 @@ BPy   3
 
 [ atoms ]
 ;   nr type resnr residu atom cgnr charge      mass
-    1  CA3   1     BPy    CA3   1     -0.02   12.011
+    1  CA3   1     BPy    CA3   1      0.02   12.011
     2  CA2   1     BPy    CA2   1     -0.07   12.011
     3  CA1   1     BPy    CA1   1      0.00   12.011
     4  NA    1     BPy    NA    1      0.15   14.007
