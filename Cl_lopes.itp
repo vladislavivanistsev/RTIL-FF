@@ -8,4 +8,4 @@ Cl     3
 
 [ atoms ]
 ;   nr  type    resnr   residu  atom    cgnr    charge  mass
-    1    Cl    1     Cl     Cl    1       -1.0000      35.453
+    1    Cl       1       Cl     Cl      1     -1.0000  35.453
