@@ -8,25 +8,25 @@
 ;
 [ moleculetype ]
 ; name  nrexcl
-TFSI   3
+NSC     3
 
 [ atoms ]
 ;   nr  type resnr residu  atom  cgnr charge    mass 
-    1   NBT    1    TFSI   NBT    1    -0.66   14.000
-    2   SBT    1    TFSI   SBT    2     1.02   32.066
-    3   SBT    1    TFSI   SBT    3     1.02   32.066
-    4   OBT    1    TFSI   OBT    3    -0.53   15.999
-    5   CBT    1    TFSI   CBT    4     0.35   12.011
-    6   OBT    1    TFSI   OBT    3    -0.53   15.999 
-    7   OBT    1    TFSI   OBT    2    -0.53   15.999
-    8   OBT    1    TFSI   OBT    2    -0.53   15.999
-    9   F1     1    TFSI   F1     4    -0.16   18.998
-   10   F1     1    TFSI   F1     4    -0.16   18.998 
-   11   F1     1    TFSI   F1     4    -0.16   18.998
-   12   CBT    1    TFSI   CBT    5     0.35   12.011
-   13   F1     1    TFSI   F1     5    -0.16   18.998
-   14   F1     1    TFSI   F1     5    -0.16   18.998
-   15   F1     1    TFSI   F1     5    -0.16   18.998
+    1   NBT    1    NSC    NBT    1    -0.66   14.000
+    2   SBT    1    NSC    SBT    2     1.02   32.066
+    3   SBT    1    NSC    SBT    3     1.02   32.066
+    4   OBT    1    NSC    OBT    3    -0.53   15.999
+    5   CBT    1    NSC    CBT    4     0.35   12.011
+    6   OBT    1    NSC    OBT    3    -0.53   15.999 
+    7   OBT    1    NSC    OBT    2    -0.53   15.999
+    8   OBT    1    NSC    OBT    2    -0.53   15.999
+    9   F1     1    NSC    F1     4    -0.16   18.998
+   10   F1     1    NSC    F1     4    -0.16   18.998 
+   11   F1     1    NSC    F1     4    -0.16   18.998
+   12   CBT    1    NSC    CBT    5     0.35   12.011
+   13   F1     1    NSC    F1     5    -0.16   18.998
+   14   F1     1    NSC    F1     5    -0.16   18.998
+   15   F1     1    NSC    F1     5    -0.16   18.998
 
 [ bonds ]
 ;  ai  aj funct         c0       c1
