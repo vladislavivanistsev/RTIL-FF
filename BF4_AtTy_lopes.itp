@@ -1,5 +1,5 @@
 ;
-; Note: the OPLS-AA atom types. The charges see in the topology file
+; Note: the OPLS-AA atom types. The charges see in the topology file .
 ; from https://github.com/agiliopadua/ilff
 ; J.N. Canongia Lopes, J. Deschamps, A.A.H. Pádua, Modeling Ionic Liquids Using a Systematic All-Atom Force Field, J. Phys. Chem. B. 108 (2004) 2038–2047.
 ;
