@@ -7,4 +7,4 @@
 [ atomtypes ]
 ;   type   mass          charge  ptype  sigma     epsilon
     P      30.974        1.3400    A  3.74e-01   0.8368
-    F      18.998       -0.3900    A  3.12e-01   0.2520
+    F      18.998       -0.3900    A  3.12e-01   0.2552
