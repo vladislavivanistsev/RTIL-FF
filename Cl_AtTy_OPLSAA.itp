@@ -1,0 +1,7 @@
+;
+; S.V. Sambasivarao, O. Acevedo, Development of OPLS-AA Force Field Parameters for 68 Unique Ionic Liquids, Journal of Chemical Theory and Computation. 5 (2009) 1038–1050.
+;
+
+[ atomtypes ]
+;   type   mass          charge  ptype  sigma     epsilon
+    Cl      35.453        -1.00    A  3.7700e-01  6.1923e-01

@@ -1,0 +1,11 @@
+;
+; S.V. Sambasivarao, O. Acevedo, Development of OPLS-AA Force Field Parameters for 68 Unique Ionic Liquids, Journal of Chemical Theory and Computation. 5 (2009) 1038–1050.
+;
+
+[ moleculetype ]
+; name  nrexcl
+Cl     3
+
+[ atoms ]
+;   nr  type    resnr   residu  atom    cgnr    charge  mass
+    1    Cl       1       Cl     Cl      1     -1.0000  35.453
