@@ -1,0 +1,12 @@
+;
+; Note: the OPLS-AA atom types. The charges see in the topology file .
+; from https://github.com/agiliopadua/ilff
+; JCP128(2008)154504
+; 
+
+[ atomtypes ]
+;   type   mass          charge  ptype  sigma     epsilon
+   SK      32.066         -0.72   A    3.55e-01   1.04600
+   CK      12.011          0.44   A    3.40e-01   3.5980e-01
+   NK      14.001         -0.72   A    3.25e-01   7.1128e-01
+

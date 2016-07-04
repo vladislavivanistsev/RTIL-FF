@@ -1,0 +1,5 @@
+TITLE     thiocyanate
+ATOM      1  SK  SCN     1       0.000   0.000   0.000  0.00  0.00
+ATOM      2  CK  SCN     1       0.000   0.000   1.660  0.00  0.00
+ATOM      3  NK  SCN     1       0.000   0.000   2.850  0.00  0.00
+END
