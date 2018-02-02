@@ -1,0 +1,14 @@
+; Tetracyanoborate anion [TCB]
+;
+; Ionic liquid OPLS-AA force field
+;T. Koller, J. Ramos, N.M. Garrido, A.P. Froba and I. G. Economou, Development of a United-Atom Force field for 1-Ethyl-3-methylimidazolium Tetracyanoborate Ionic Liquid, Molecular Physics, 2012, 110,  nos 11-12, 1115-1126
+; Total charge on ion = -0.8425
+; Appearently, this anion gois better with the Emim cation from the same paper
+
+
+    [  atomtypes  ]                                
+;  type    mass     charge  ptype sigma(nm) epsilon(kJ/mol)  ;alternative sigma   epsilon
+    B     10.811    0.3511    A    0.3581    0.0010          ;         0.3581     0.3975 
+    CN    12.011    0.1303    A    0.3300    0.2761          ;         0.3490     0.3598
+    NC    14.007   -0.4287    A    0.3200    0.5100          ;         0.3340     0.7113
+
