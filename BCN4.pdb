@@ -1,11 +1,11 @@
-COMPND    tetracyanoborate
-ATOM      1  B     2     2      -0.259  -0.074   0.126
-ATOM      2  CN    2     2       0.271   0.675  -1.171
-ATOM      3  CN    2     2       0.445  -1.494   0.242
-ATOM      4  CN    2     2      -1.832  -0.270   0.020
-ATOM      5  CN    2     2       0.081   0.792   1.414
-ATOM      6  NC    2     2       0.652   1.214  -2.104
-ATOM      7  NC    2     2       0.951  -2.515   0.326
-ATOM      8  NC    2     2      -2.963  -0.411  -0.057
-ATOM      9  NC    2     2       0.325   1.416   2.340
+TITLE    tetracyanoborate anion
+ATOM      1  B     TCB   2      -0.259  -0.074   0.126
+ATOM      2  CN    TCB   2       0.271   0.675  -1.171
+ATOM      3  CN    TCB   2       0.445  -1.494   0.242
+ATOM      4  CN    TCB   2      -1.832  -0.270   0.020
+ATOM      5  CN    TCB   2       0.081   0.792   1.414
+ATOM      6  NC    TCB   2       0.652   1.214  -2.104
+ATOM      7  NC    TCB   2       0.951  -2.515   0.326
+ATOM      8  NC    TCB   2      -2.963  -0.411  -0.057
+ATOM      9  NC    TCB   2       0.325   1.416   2.340
 END
