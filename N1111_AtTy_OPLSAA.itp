@@ -1,0 +1,5 @@
+[ atomtypes ]
+; name  at.nr     mass   charge  ptype  sigma        epsilon
+N4          7  14.0070   0.1200      A  3.25000e-01  7.11280e-01
+C1          6  12.0110  -0.1700      A  3.50000e-01  2.76140e-01
+H1          1   1.0080   0.1300      A  2.50000e-01  1.25520e-01
